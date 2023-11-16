@@ -1,2 +1,0 @@
-# blog
-Aprendiendo Git
